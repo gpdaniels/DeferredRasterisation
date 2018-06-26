@@ -4,6 +4,11 @@
 
 This repository aims to demonstrate a GLSL deferred renderer that expands GL_POINTS into cube voxels.
 
+| Coloured blocks:  | Moving in the volume: |
+|--|--|
+|![Image of coloured blocks in the volume](https://raw.githubusercontent.com/gpdaniels/DeferredRasterisation/master/Data/SampleSmall.png "Image of coloured blocks in the volume") |![Animation of moving in the volume](https://raw.githubusercontent.com/gpdaniels/DeferredRasterisation/master/Data/SampleSmall.gif "Animation of moving in the volume") |
+
+
 ## Scene ##
 
 On load a voxel volume is generated consisting of:
